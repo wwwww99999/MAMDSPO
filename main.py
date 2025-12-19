@@ -1,6 +1,5 @@
 from train import train
 import torch
-import random
 
 if __name__ == '__main__':
     env_name = 'SafetyAntMultiGoal2-v0'
